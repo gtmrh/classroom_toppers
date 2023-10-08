@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267544656438",
+    "project_id": "classroom-toppers",
+    "storage_bucket": "classroom-toppers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267544656438:android:02d21a9091f39827ae7697",
+        "android_client_info": {
+          "package_name": "com.classroomtoppers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDztCTQajNDpe8pS8QlE1hXz6O2OotQrDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
